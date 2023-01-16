@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: It was named after a revolver.
+- text: It was named after a snake.
+- text: All the answers are correct!
+- text: It was named after the Monty Python show.
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11884#comment
+status: Solved
+record: -1
+local_check: false
